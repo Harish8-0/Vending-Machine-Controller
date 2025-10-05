@@ -11,7 +11,6 @@
 
 [![Verilog](https://img.shields.io/badge/Language-Verilog-blue.svg)](https://en.wikipedia.org/wiki/Verilog)
 [![Status](https://img.shields.io/badge/Status-Complete-success.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 
 **A parameterized, synthesizable Verilog RTL design for flexible vending machine controller IP**
 
