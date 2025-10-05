@@ -68,7 +68,7 @@ This project implements a **configurable vending machine controller** as a produ
 ### 🏗️ High-Level Block Diagram
 
 ```
-![System Block Diagram] https://github.com/Harish8-0/Vending-Machine-Controller-/blob/main/Architecture/Block%20Diagram.pdf
+![System Block Diagram] (https://github.com/Harish8-0/Vending-Machine-Controller-/blob/main/Architecture/Block%20Diagram.pdf)
 ```
 
 ### 🔄 Operating Modes
