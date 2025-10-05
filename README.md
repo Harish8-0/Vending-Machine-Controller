@@ -321,16 +321,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
+- 🐙 GitHub: [@Harish8-0](https://github.com/Harish8-0)
+- 💼 LinkedIn: [Harish M](www.linkedin.com/in/mondem-harish)
+- 📧 Email: mondemharish08@gmail.com
 
 ---
 
 ## 🙏 Acknowledgments
 
 - **SURE ProEd** - For project specification and guidance
-- **Authors**: Satish D, Nikhil B. Venkat, Devi Prasad, Bhaskar, Gopi, Chetan
+- **Project Mentor**: Mr. Satish Devarapalli (Emulation Verification at Apple)
 - **Course**: Integrated VLSI Internship - Front-End Design/Verification
 
 ---
