@@ -1,5 +1,5 @@
 <div align="center">
-   <img src='https://user-images.githubusercontent.com/73131499/166115643-d3187f47-d38f-41b2-ae42-5ecbbc60de14.png' />
+   <img src='https://github.com/user-attachments/assets/9f11bef9-e1f1-4f73-ad2a-65e0317aa016' />
 
 
 <h3 align="center">SURE ProEd (SURE Trust) - Skill Upgradation for Rural-youth Empowerment Trust</h3>
